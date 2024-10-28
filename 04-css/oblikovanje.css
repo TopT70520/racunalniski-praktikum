@@ -59,4 +59,6 @@ h2 {
 
 }
 
-
+.slika p:last-child{
+    font: 0.8em;
+}
