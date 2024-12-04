@@ -9,10 +9,30 @@
 \headcommand {\beamer@framepages {4}{4}}
 \headcommand {\slideentry {1}{0}{2}{5/5}{}{0}}
 \headcommand {\beamer@framepages {5}{5}}
-\headcommand {\beamer@partpages {1}{6}}
-\headcommand {\beamer@subsectionpages {7}{6}}
-\headcommand {\beamer@sectionpages {7}{6}}
-\headcommand {\beamer@documentpages {6}}
-\headcommand {\gdef \inserttotalframenumber {5}}
 \headcommand {\slideentry {1}{0}{3}{6/6}{}{0}}
 \headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@sectionpages {4}{6}}
+\headcommand {\beamer@subsectionpages {4}{6}}
+\headcommand {\sectionentry {2}{Paketa \texttt {amsmath} in \texttt {amsfonts}}{7}{Paketa \texttt {amsmath} in \texttt {amsfonts}}{0}}
+\headcommand {\beamer@sectionpages {7}{6}}
+\headcommand {\beamer@subsectionpages {7}{6}}
+\headcommand {\sectionentry {3}{Matematika, 1. del\\\large {Analiza, logika, množice}}{7}{Matematika, 1. del}{0}}
+\headcommand {\beamer@sectionpages {7}{6}}
+\headcommand {\beamer@subsectionpages {7}{6}}
+\headcommand {\sectionentry {4}{Stolpci in slike}{7}{Stolpci in slike}{0}}
+\headcommand {\beamer@sectionpages {7}{6}}
+\headcommand {\beamer@subsectionpages {7}{6}}
+\headcommand {\sectionentry {5}{Paket \texttt {beamer} in tabele}{7}{Paket \texttt {beamer} in tabele}{0}}
+\headcommand {\beamer@sectionpages {7}{6}}
+\headcommand {\beamer@subsectionpages {7}{6}}
+\headcommand {\sectionentry {6}{Matematika, 2. del\\\large {Zaporedja, algebra, grupe}}{7}{Matematika, 2. del}{0}}
+\headcommand {\beamer@sectionpages {7}{6}}
+\headcommand {\beamer@subsectionpages {7}{6}}
+\headcommand {\sectionentry {7}{Stolpci in slike}{7}{Stolpci in slike}{0}}
+\headcommand {\beamer@partpages {1}{13}}
+\headcommand {\beamer@subsectionpages {7}{13}}
+\headcommand {\beamer@sectionpages {7}{13}}
+\headcommand {\beamer@documentpages {13}}
+\headcommand {\gdef \inserttotalframenumber {6}}
+\headcommand {\slideentry {7}{0}{1}{7/13}{}{0}}
+\headcommand {\beamer@framepages {7}{13}}
